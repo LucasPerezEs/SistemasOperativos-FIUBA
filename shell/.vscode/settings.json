@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "exec.h": "c",
+        "types.h": "c",
+        "defs.h": "c",
+        "stdarg.h": "c",
+        "utils.h": "c",
+        "freecmd.h": "c",
+        "printstatus.h": "c",
+        "readline.h": "c",
+        "runcmd.h": "c",
+        "builtin.h": "c",
+        "signal_handler.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc,C:\\msys64\\ucrt64\\bin\\gcc.exe"
+}

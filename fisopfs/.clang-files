@@ -1,0 +1,12 @@
+fisopfs.c
+entrada.c
+entrada_archivo.c
+entrada_directorio.c
+utilidades.c
+
+
+fisopfs.h
+entrada.h
+entrada_archivo.h
+entrada_directorio.h
+utilidades.h
